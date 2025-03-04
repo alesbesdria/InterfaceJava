@@ -2,6 +2,8 @@ public class Nature {
 
     public static void main(String[] args) {
 
+        //ok
+
         Penguin pingou = new Penguin("Pingou");
         pingou.dive();
         pingou.swimDown(3);
